@@ -55,7 +55,7 @@ M.I.E.T ENGINEERING COLLEGE
 
 
 ## Project Design & Planning
-- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
+- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 - [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20phase%201)
 - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20phase%202)
 - [Project Planning](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
