@@ -32,7 +32,7 @@
 ---
 
 **Degree	:**	
-Bachelor of Engineering/Technology
+Bachelor of Engineering
 
 **Branch	:**	
 Computer Science Engineering
@@ -49,39 +49,27 @@ M.I.E.T ENGINEERING COLLEGE
 ## Assignment  
 
  - [Team Leader : PRAVEEN KUMAR B](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Assignments/Team%20Lead)
- - [Team member : BALAMURUGAN A](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MANOJ%20ADHITHYAN%20A)
- - [Team member : AMJAD AHAMED A](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20MOHANRAJ%20M)
- - [Team member : MOHAMED ASIF SALMAN M](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Assignments/Team%20member%20%20DAYANITHI%20S)
+ - [Team member : BALAMURUGAN A](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Assignments/Team%20member%201)
+ - [Team member : AMJAD AHAMED A](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Assignments/Team%20member%202)
+ - [Team member : MOHAMED ASIF SALMAN M](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Assignments/Team%20member%203)
 
 
 ## Project Design & Planning
 - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
-- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
-- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
-- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
+- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20phase%201)
+- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20phase%202)
+- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
 
 ## Tech Stack
 
-**Frontend:** Html+Css+JavaScript
+**TOOLS USED:** COGNOS ANALYTICS
 
-**Backend:** Python, Flask , Docker
-
-**Database:** IBM DB2
-
-
-
-
-## Authors
-
-- [@Vkparamesh](https://github.com/Vkparamesh)
-- [@MANOJ ADHITHYAN](https://github.com/MANOJADHITHYAN)
-- [@DAYANITHI](https://github.com/kalaitamizhan)
-- [@MOHAN RAJ](https://github.com/mohanrajdoctor)
+**LANGUAGE USED:** Python
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at parameshvk3232@gmail.com
+If you have any feedback, please reach out to us at confidenceillathaboys@gmail.com
 
 
 
