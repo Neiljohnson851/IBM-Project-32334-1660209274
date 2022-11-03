@@ -60,6 +60,9 @@ M.I.E.T ENGINEERING COLLEGE
 - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20phase%202)
 - [Project Planning](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
 
+## Project Development Phase
+- [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-32334-1660209274/tree/main/Project%20Development%20Phase/Sprint%201)
+
 ## Tech Stack
 
 **TOOLS USED:** COGNOS ANALYTICS
